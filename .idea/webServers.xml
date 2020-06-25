@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a4880b16-630b-4f5a-bd97-b7feef6e50ab" name="access_exp">
+        <fileTransfer rootFolder="/media/disk1/docker_vol/junghyun/robust_compression/src" accessType="SFTP" host="166.104.185.117" port="7001" sshConfigId="2abf7d29-5647-430e-a0cb-77d40674682b" sshConfig="2080TI">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
